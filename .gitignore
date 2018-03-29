@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/GroupChatProject/v15/Browse.VC.opendb
+/.vs/GroupChatProject/v15/Browse.VC.db
