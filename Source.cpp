@@ -13,5 +13,6 @@ const int BUF_SIZE = 64;
 
 int main()
 {
+	cout << "hey tom" << endl;
   return 0;
 }
